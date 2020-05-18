@@ -1,4 +1,4 @@
-FROM lsiobase/python:3.11
+FROM lsiobase/python:arm32v7-3.11
 
 ARG WHOOGLESEARCH_RELEASE
 ARG BUILD_DATE=unspecified
